@@ -1,2 +1,3 @@
 def func(v):
-    return v + 3
+  i = v + 3
+  return i
